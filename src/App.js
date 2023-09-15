@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import img1 from './images/Logo.png';
 import ContactForm from './ContactForm';
 import backgroundVideo from './background.mp4';
-import './App.css'; // Import your CSS for styling
+import './App.css'; 
 
 function App() {
   useEffect(() => {
