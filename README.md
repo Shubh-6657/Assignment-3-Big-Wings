@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Output
+<img width="959" alt="techtt" src="https://github.com/Shubh-6657/Assignment-3-Big-Wings/assets/108170423/25e31f1c-1d93-48d5-afac-15e295331d45">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
